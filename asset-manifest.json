@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skywalkers-project-konnexions/static/css/main.11e14b24.css",
+    "main.js": "/Skywalkers-project-konnexions/static/js/main.17525f78.js",
+    "static/js/453.e75e5911.chunk.js": "/Skywalkers-project-konnexions/static/js/453.e75e5911.chunk.js",
+    "index.html": "/Skywalkers-project-konnexions/index.html",
+    "main.11e14b24.css.map": "/Skywalkers-project-konnexions/static/css/main.11e14b24.css.map",
+    "main.17525f78.js.map": "/Skywalkers-project-konnexions/static/js/main.17525f78.js.map",
+    "453.e75e5911.chunk.js.map": "/Skywalkers-project-konnexions/static/js/453.e75e5911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e14b24.css",
+    "static/js/main.17525f78.js"
+  ]
+}
